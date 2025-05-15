@@ -125,7 +125,6 @@ nav a {
   color: #bfd1bc;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
   .intro {
     flex-direction: column;
